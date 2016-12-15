@@ -39,7 +39,9 @@ BLCycleImageView是一个无限循环的图片轮播控件，采用UIScrollView�
         
 ```
 ## 效果展示
-![Screenshots gif]()
+带图片说明文字和不带的效果<br/>
+
+![Screenshots gif1](http://oggi1up78.bkt.clouddn.com/cycleWithNoTitle.gif)      ![Screenshots gif1](http://oggi1up78.bkt.clouddn.com/cycleWithTitle.gif)
 
 ## 依赖库
 SDWebImage
