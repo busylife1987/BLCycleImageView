@@ -7,6 +7,8 @@
 //
 
 #import "BLCycleImageView.h"
+#import "UIView+Extend.h"
+#import "UIImageView+WebCache.h"
 
 #define PAGECONTROLL_W 100
 #define PAGECONTROLL_H 10
