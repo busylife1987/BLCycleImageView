@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
 
 s.name         = "BLCycleImageView"
-s.version      = "1.0"
+s.version      = "1.3"
 s.summary      = "图片无限轮播器，简单易用！"
 
 s.homepage     = "https://github.com/busylife1987/BLCycleImageView"
@@ -14,7 +14,7 @@ s.author       = { "busylife1987" => "busylife1987@126.com" }
 s.platform     = :ios
 s.platform     = :ios, "8.0"
 
-s.source       = { :git => "https://github.com/busylife1987/BLCycleImageView.git", :tag => "1.0"}
+s.source       = { :git => "https://github.com/busylife1987/BLCycleImageView.git", :tag => "1.3"}
 
 s.source_files  = "BLCycleImageView/*"
 
