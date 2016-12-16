@@ -50,7 +50,8 @@ SDWebImage
  * 使用 CocoaPods安装
 ```
   platform: iOS, '8.0'
-  pod 'BLCycleImageView','~>1.1'
+
+  pod 'BLCycleImageView','~>1.0'
 ```
   
  * 手动安装

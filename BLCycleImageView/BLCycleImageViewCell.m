@@ -8,6 +8,8 @@
 
 #import "BLCycleImageViewCell.h"
 
+#define SCREENT_WIDTH [[UIScreen mainScreen]bounds].size.width
+
 @implementation BLCycleImageViewCell
 
 
